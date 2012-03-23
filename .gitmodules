@@ -1,0 +1,3 @@
+[submodule "subMOD"]
+	path = subMOD
+	url = file:///home/kijo/git-course/submodule-repo/
